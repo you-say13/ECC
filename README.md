@@ -1,4 +1,4 @@
 # ECC
 
 Hello World!
-poopeepoo
+poo
